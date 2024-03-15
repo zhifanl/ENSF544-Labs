@@ -1,0 +1,1 @@
+{"Algorithm": "lr", "_timestamp": 1709934488.138112, "_runtime": 3.0211939811706543, "_step": 4, "Best F1 Score": 0.7641914476990198, "Best Parameters": {"classifier__C": 10, "classifier__penalty": "l1", "classifier__solver": "saga"}, "Test Accuracy": 0.7482517482517482, "Test F1 Score": 0.6666666666666666, "_wandb": {"runtime": 1}}
